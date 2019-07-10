@@ -36,9 +36,12 @@ Chen uses a number of open source projects to work properly:
 
 
 **Free Software, Hell Yeah!**
+
+
+
 Shout out to
-- [Roshan Singh]:<https://github.com/g0li/>
-- [Chinmay Tagade]:<https://github.com/Blaze10/>
+- [Roshan Singh](https://github.com/g0li/)
+- [Chinmay Tagade](https://github.com/Blaze10/)
 
    [androidx]: <https://developer.android.com/jetpack/androidx>
    [firebase]: <https://firebase.google..com/>
