@@ -19,8 +19,6 @@ Chen is a Open Source Attendance Management System. This Repository consists of 
 
 What we recommend:
   - Fork this library and deploy your own "Chen"!
-  
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### Tech
 
