@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "771234131230",
+    "firebase_url": "https://lilliemountain-chen.firebaseio.com",
+    "project_id": "lilliemountain-chen",
+    "storage_bucket": "lilliemountain-chen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771234131230:android:1c76501d48563e53",
+        "android_client_info": {
+          "package_name": "com.lilliemountain.chen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771234131230-psikquorl3sjq8h1tkj91b1osg54n9hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lilliemountain.chen",
+            "certificate_hash": "5bbc59296eee597bcc7f77821f7beb31ecf7df73"
+          }
+        },
+        {
+          "client_id": "771234131230-eupej37l92stuortmfm6v4lt3v778p72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjt-OcaFkzmP9vFLSDeuU3WZfif9DNJ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771234131230-eupej37l92stuortmfm6v4lt3v778p72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
