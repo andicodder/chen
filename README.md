@@ -36,14 +36,16 @@ Chen uses a number of open source projects to work properly:
 
 
 **Free Software, Hell Yeah!**
+*Shout out to *
+- *[Roshan Singh]:<https://github.com/g0li/>
+- *[Chinmay Tagade]:<https://github.com/Blaze10/>
 
    [androidx]: <https://developer.android.com/jetpack/androidx>
-   [firebase]: <https://github.com/joemccann/dillinger.git>
+   [firebase]: <https://firebase.google..com/>
    [zxing]: <https://github.com/zxing/zxing>
    [hdodenhof/CircleImageView]: <https://github.com/hdodenhof/CircleImageView>
    [angularfire2]: <hhttps://github.com/angular/angularfire2>
    [node.js]: <http://nodejs.org>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [Angular]: <https://angular.io/>
 
